@@ -1,0 +1,82 @@
+[
+  {
+    "crop": "Tomato",
+    "disease": "Early blight",
+    "summary": "A fungal leaf disease commonly associated with concentric brown lesions, often beginning on older leaves.",
+    "verify": "Check whether the spots are dry, brown, and roughly circular, and whether older foliage is affected first.",
+    "care": "Reduce prolonged leaf wetness, improve airflow, sanitize infected plant debris, and use locally approved crop-specific guidance for any control product.",
+    "sources": ["https://extension.umn.edu/disease-management/early-blight-tomato-and-potato"]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Late blight",
+    "summary": "A serious oomycete disease that can produce rapidly enlarging dark lesions, especially under cool, humid conditions.",
+    "verify": "Look for rapidly expanding dark lesions and a history of cool/wet weather. Compare with bacterial spot and early blight.",
+    "care": "Remove severely affected material where appropriate, avoid prolonged leaf wetness, and seek local extension guidance promptly because outbreaks can spread quickly.",
+    "sources": ["https://extension.umn.edu/disease-management/late-blight-tomato-and-potato"]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Bacterial spot",
+    "summary": "A bacterial disease that can cause small dark leaf spots and lesions on fruit or stems.",
+    "verify": "Check whether spots are small and dark and whether similar symptoms occur on stems or fruit.",
+    "care": "Avoid handling plants while foliage is wet, sanitize tools, and use locally recommended sanitation and management practices.",
+    "sources": ["https://extension.umn.edu/disease-management/bacterial-spot-and-speck-tomatoes"]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Leaf mold",
+    "summary": "A disease favored by high humidity that often produces yellow areas on the upper leaf surface with olive or grayish growth underneath.",
+    "verify": "Inspect the underside of leaves, especially in dense canopies or humid conditions.",
+    "care": "Increase ventilation, reduce humidity and leaf wetness, and remove affected debris according to local guidance.",
+    "sources": ["https://ipm.ucanr.edu/agriculture/tomato/leaf-mold/"]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Septoria leaf spot",
+    "summary": "A leaf-spot disease that typically creates numerous small lesions, often with pale centers and darker margins.",
+    "verify": "Look for many small spots concentrated on lower leaves and inspect whether centers contain tiny dark specks.",
+    "care": "Limit splash and prolonged wetness, remove infected debris, and improve airflow where possible.",
+    "sources": ["https://extension.umn.edu/disease-management/septoria-leaf-spot-tomato"]
+  },
+  {
+    "crop": "Tomato",
+    "disease": "Tomato yellow leaf curl virus",
+    "summary": "A viral disease commonly associated with leaf curling, yellowing, stunting, and whitefly transmission.",
+    "verify": "Check for curling/yellowing on young leaves and inspect plants for whiteflies. Compare with nutrient and herbicide injury.",
+    "care": "Focus on clean planting material, weed management, vector management, and removal of infected plants according to local extension recommendations.",
+    "sources": ["https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl-virus/"]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Early blight",
+    "summary": "A fungal disease of potato foliage that commonly causes dark spots, often with concentric rings, and can reduce leaf area.",
+    "verify": "Check for target-like rings on older leaves and compare with late blight.",
+    "care": "Maintain plant vigor, limit leaf wetness, remove volunteer plants/debris, and follow local crop-protection guidance.",
+    "sources": ["https://extension.umn.edu/disease-management/early-blight-tomato-and-potato"]
+  },
+  {
+    "crop": "Potato",
+    "disease": "Late blight",
+    "summary": "A fast-moving disease that can cause dark, water-soaked-looking lesions and rapid foliage collapse under favorable weather.",
+    "verify": "Inspect for rapidly expanding lesions and check recent cool, wet weather.",
+    "care": "Monitor frequently, reduce wetness where feasible, remove severely affected material appropriately, and seek local extension advice quickly.",
+    "sources": ["https://extension.umn.edu/disease-management/late-blight-tomato-and-potato"]
+  },
+  {
+    "crop": "Apple",
+    "disease": "Apple scab",
+    "summary": "A fungal disease that produces olive-to-brown lesions on leaves and fruit and is favored by wet spring conditions.",
+    "verify": "Look for olive or brown scabby spots on leaves or fruit and compare with insect damage.",
+    "care": "Improve orchard sanitation, remove fallen leaves where practical, and use locally recommended disease-management schedules.",
+    "sources": ["https://extension.umn.edu/plant-diseases/apple-scab"]
+  },
+  {
+    "crop": "Corn",
+    "disease": "Common rust",
+    "summary": "A fungal leaf disease characterized by rust-colored pustules on leaf surfaces.",
+    "verify": "Inspect both leaf surfaces for small rust-colored pustules and distinguish from other leaf-spot diseases.",
+    "care": "Use resistant varieties where available and follow local disease-monitoring recommendations.",
+    "sources": ["https://extension.umn.edu/corn-pest-management/corn-diseases"]
+  }
+]
