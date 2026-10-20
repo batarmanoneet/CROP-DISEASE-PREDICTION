@@ -1,1 +1,0 @@
-"""Crop Doctor AI package."""
